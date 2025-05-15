@@ -107,12 +107,6 @@ zay-cloud/
 - 在侧边栏点击"WebDAV设置"配置WebDAV服务器
 - 使用"WebDAV客户端"连接其他WebDAV服务
 
-## 📸 截图
-![t](http://zay.rtmd.me/dl/36e4ca0f-4835-46fc-b28c-b1aed50eae3c)
-
-
-&nbsp;
-
 ## 📄 许可证
 
 本项目采用 MIT 许可证 - 详情请参见 LICENSE 文件
@@ -134,4 +128,4 @@ zay-cloud/
 
 * * *
 
-💻 由 ZAY 开发 | 祝您使用愉快！"# zay-cloud"  
+💻 由 詹森 开发 | 祝您使用愉快！"# zay-cloud"  
