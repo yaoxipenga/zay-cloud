@@ -123,7 +123,7 @@ zay-cloud/
 
 如有任何问题或建议，请通过以下方式联系：
 
-- 邮箱：fivif@outlook.com
+- 邮箱：yaoxipeng666@126.com
 - GitHub Issues：[问题报告](https://github.com/fivif/zay-cloud/issues)
 
 * * *
